@@ -1,7 +1,7 @@
 from twilio.rest import TwilioRestClient
 
 
-target = open("/Users/creich/practice/mmm/massey_peabody/nfl_flag.txt", "r")
+target = open("/Users/creich/web_scraping/massey_peabody/nfl_flag.txt", "r")
 
 for line in target:
     if "YES" in line:

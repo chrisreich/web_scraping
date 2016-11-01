@@ -11,7 +11,7 @@ class MasseyPeabodyNFLSpider(scrapy.Spider):
 
         if "eek 9" in fileStr:
 
-            target = open("/Users/creich/practice/mmm/massey_peabody/nfl_flag.txt", "w")
+            target = open("/Users/creich/web_scraping/massey_peabody/nfl_flag.txt", "w")
             target.truncate()
 
             target.write("YES")
@@ -28,7 +28,7 @@ class MasseyPeabodyCFBSpider(scrapy.Spider):
         fileStr = response.xpath('//a[contains(@href, "uploads")]/text()').extract_first()
 
         if "eek 10" in fileStr:
-            target = open("/Users/creich/practice/mmm/massey_peabody/cfb_flag.txt", "w")
+            target = open("/Users/creich/web_scraping/massey_peabody/cfb_flag.txt", "w")
             target.truncate()
             target.write("YES")
             target.close()
