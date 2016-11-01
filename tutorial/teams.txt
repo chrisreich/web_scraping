@@ -1,0 +1,30 @@
+Chicago Bears,+7.5 (-115),301,10/20/2016 8:25:00 PM
+Green Bay Packers,-7.5 (-105),302,10/20/2016 8:25:00 PM
+New York Giants,-2.5 (-120),451,10/23/2016 9:30:00 AM
+Los Angeles Rams,+2.5 (+100),452,10/23/2016 9:30:00 AM
+Minnesota Vikings,-2.5 (-120),453,10/23/2016 1:00:00 PM
+Philadelphia Eagles,+2.5 (+100),454,10/23/2016 1:00:00 PM
+New Orleans Saints,+6.5 (-110),455,10/23/2016 1:00:00 PM
+Kansas City Chiefs,-6.5 (-110),456,10/23/2016 1:00:00 PM
+Washington Redskins,pk (-105),457,10/23/2016 1:00:00 PM
+Detroit Lions,pk (-115),458,10/23/2016 1:00:00 PM
+Cleveland Browns,+10 (-115),459,10/23/2016 1:00:00 PM
+Cincinnati Bengals,-10 (-105),460,10/23/2016 1:00:00 PM
+Buffalo Bills,-3 (+100),461,10/23/2016 1:00:00 PM
+Miami Dolphins,+3 (-120),462,10/23/2016 1:00:00 PM
+Oakland Raiders,+1 (-110),463,10/23/2016 1:00:00 PM
+Jacksonville Jaguars,-1 (-110),464,10/23/2016 1:00:00 PM
+Indianapolis Colts,+2.5 (+105),465,10/23/2016 1:00:00 PM
+Tennessee Titans,-2.5 (-125),466,10/23/2016 1:00:00 PM
+Baltimore Ravens,pk (+100),467,10/23/2016 1:00:00 PM
+New York Jets,pk (-120),468,10/23/2016 1:00:00 PM
+San Diego Chargers,+6.5 (-115),469,10/23/2016 4:05:00 PM
+Atlanta Falcons,-6.5 (-105),470,10/23/2016 4:05:00 PM
+Tampa Bay Buccaneers,-2.5 (-110),471,10/23/2016 4:05:00 PM
+San Francisco 49ers,+2.5 (-110),472,10/23/2016 4:05:00 PM
+New England Patriots,-7.5 (-104),473,10/23/2016 4:25:00 PM
+Pittsburgh Steelers,+7.5 (-116),474,10/23/2016 4:25:00 PM
+Seattle Seahawks,+2 (-110),475,10/23/2016 8:30:00 PM
+Arizona Cardinals,-2 (-110),476,10/23/2016 8:30:00 PM
+Houston Texans,+7 (-102),477,10/24/2016 8:30:00 PM
+Denver Broncos,-7 (-118),478,10/24/2016 8:30:00 PM
